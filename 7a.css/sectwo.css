@@ -1,0 +1,33 @@
+.heading-about{
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: rgb(247, 241, 151);
+}
+.about-text{
+    font-size: .875rem;
+    color: rgb(34, 34, 107);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.3rem;
+    margin-top: .9375rem;
+}
+.about{
+    margin-top: 11.25rem;
+    margin-left: 4.4375rem;
+}
+.sec-txt{
+    margin-top: 6.25rem;
+    margin-left: 15.625rem;
+}
+.heading-txt{
+    font-size: .875rem;
+    color: rgb(3, 4, 94);
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lorem-txt{
+    font-size: .8125rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(34, 34, 107);
+    line-height: 1.3rem;
+}
